@@ -81,7 +81,7 @@ const Footer = () => {
                 className="text-lightgrey flex-shrink-0"
               />
               <p className="text-xs font-normal text-offwhite line-clamp-2 text-center sm:text-left">
-                shop no. 8, 2nd floor, lucknow plaza building, narizabad, near kolkata family mart store, aminabad, lucknow - 226011.
+                Okhla, New Delhi
               </p>
             </div>
             <div className="flex gap-2 items-center justify-center sm:justify-start">
@@ -92,11 +92,10 @@ const Footer = () => {
                 className="text-lightgrey flex-shrink-0"
               />
               <Link
-                href="tel:+ 45 34 11 44 11"
-                onClick={(e) => e.preventDefault()}
+                href="tel:+918447510392"
               >
                 <p className="text-xs font-normal text-offwhite hover:text-primary dark:hover:text-primary text-center sm:text-left">
-                  + 91 9987839452
+                  +91 84475 10392
                 </p>
               </Link>
             </div>
