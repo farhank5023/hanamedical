@@ -16,9 +16,9 @@ export const metadata: Metadata = {
   description: 'Medical coordination and support for patients seeking trusted care in India.',
   metadataBase: new URL('https://hanamedicalservice.com'),
   icons: {
-    icon: '/images/logo/logo.svg',
-    shortcut: '/images/logo/logo.svg',
-    apple: '/images/logo/logo.svg',
+    icon: '/images/logo/favicon.ico',
+    shortcut: '/images/logo/favicon.ico',
+    apple: '/images/logo/favicon.ico',
   },
   openGraph: {
     title: 'Hana Medical Services',
