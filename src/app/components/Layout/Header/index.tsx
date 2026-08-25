@@ -87,7 +87,9 @@ const Header: React.FC = () => {
         className={`container flex items-center justify-between gap-10 duration-300  ${
           sticky ? 'py-3' : 'py-4'
         }`}>
-        <Logo />
+        <div className="pt-2 pb-4 flex items-end">
+          <Logo />
+        </div>
         <nav>
           <ul className='hidden xl:flex flex-grow items-center justify-start gap-10 '>
             {navlink.map((item, index) => (

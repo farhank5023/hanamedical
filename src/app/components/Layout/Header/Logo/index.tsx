@@ -6,20 +6,20 @@ const Logo = () => {
   return (
     <Link href='/'>
       <Image
-  src={getImgPath('/images/logo/logo_arzo.png')}
-  alt='logo'
-  width={150}
-  height={50}
-  className='h-12 w-auto object-contain block dark:hidden'
-/>
+        src={getImgPath('/images/logo/hana_logo.png')}
+        alt='Hana Medical Services logo'
+        width={900}
+        height={300}
+        className='h-20 w-auto object-contain block dark:hidden sm:h-24 md:h-28 lg:h-32'
+      />
 
-<Image
-  src={getImgPath('/images/logo/logo_arzo.png')}
-  alt='logo'
-  width={150}
-  height={50}
-  className='h-12 w-auto object-contain hidden dark:block'
-/>
+      <Image
+        src={getImgPath('/images/logo/hana_logo.png')}
+        alt='Hana Medical Services logo'
+        width={900}
+        height={300}
+        className='hidden h-20 w-auto object-contain dark:block sm:h-24 md:h-28 lg:h-32'
+      />
     </Link>
   )
 }

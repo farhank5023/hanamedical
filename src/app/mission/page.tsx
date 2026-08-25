@@ -1,47 +1,48 @@
 export default function MissionPage() {
   return (
     <div className="pt-24 p-10 max-w-5xl mx-auto space-y-12">
-
-      {/* Mission */}
       <div>
-        <h1 className="text-4xl font-bold text-blue-900 mb-4">
-          Our Mission
+        <h1 className="text-4xl font-bold text-primary mb-4">
+          Patient Journey Support
         </h1>
 
         <p className="text-gray-600 leading-relaxed">
-          Our mission is to deliver reliable, high-quality manpower solutions 
-          while maintaining trust, professionalism, and long-term relationships 
-          with our clients across the globe.
+          Hana Medical Services helps patients and their attendants navigate the healthcare journey in India with dependable coordination, clear communication, and practical support at every stage.
         </p>
       </div>
 
-      {/* Vision */}
       <div>
-        <h2 className="text-2xl font-semibold text-blue-900 mb-3">
+        <h2 className="text-2xl font-semibold text-primary mb-3">
+          Our Mission
+        </h2>
+
+        <p className="text-gray-600 leading-relaxed">
+          To connect international patients with appropriate healthcare opportunities in India while providing dependable support throughout their treatment journey.
+        </p>
+      </div>
+
+      <div>
+        <h2 className="text-2xl font-semibold text-primary mb-3">
           Our Vision
         </h2>
 
         <p className="text-gray-600 leading-relaxed">
-          To be a globally recognized manpower solutions provider known for 
-          excellence, integrity, and commitment in delivering skilled workforce 
-          to industries worldwide.
+          To build a trusted global healthcare network connecting patients, healthcare professionals, and providers across borders.
         </p>
       </div>
 
-      {/* Core Values */}
       <div>
-        <h2 className="text-2xl font-semibold text-blue-900 mb-3">
-          Our Core Values
+        <h2 className="text-2xl font-semibold text-primary mb-3">
+          Core Values
         </h2>
 
         <ul className="text-gray-600 space-y-2">
-          <li>• Integrity and transparency in all operations</li>
-          <li>• Commitment to quality and timely delivery</li>
-          <li>• Strong client relationships and trust</li>
-          <li>• Professionalism in recruitment and services</li>
+          <li>• Personalized patient assistance based on individual needs</li>
+          <li>• Transparency in treatment planning and estimated costs</li>
+          <li>• Commitment to quality healthcare coordination</li>
+          <li>• Respectful, dependable support for patients and attendants</li>
         </ul>
       </div>
-
     </div>
   );
 }

@@ -19,208 +19,218 @@
       "href": "/"
     },
     {
-      "label": "About",
+      "label": "Treatments",
+      "href": "/treatments"
+    },
+    {
+      "label": "Patient Journey",
+      "href": "/patient-journey"
+    },
+    {
+      "label": "International Patients",
+      "href": "/international-patients"
+    },
+    {
+      "label": "About Hana",
       "href": "/about"
     },
     {
-      "label": "Mission",
-      "href": "/mission"
+      "label": "FAQ",
+      "href": "/#faq"
     },
     {
       "label": "Contact",
       "href": "/contact"
     }
   ],
-   "ProjectData": [
+  "ProjectData": [
     {
-      "name": "Construction",
+      "name": "Oncology & Cancer Care",
       "coverImg": "/images/project/cons.jpg"
     },
     {
-      "name": "Oil & Gas",
+      "name": "Cardiology & Cardiac Care",
       "coverImg": "/images/project/oil.jpg"
     },
     {
-      "name": "Healthcare",
+      "name": "Neurosurgery & Neurology",
       "coverImg": "/images/project/health.jpg"
     },
     {
-      "name": "Electrical & Engineering",
+      "name": "Spine & Orthopaedics",
       "coverImg": "/images/project/engine.jpg"
     },
     {
-      "name": "Hospitality",
+      "name": "Kidney & Renal Care",
       "coverImg": "/images/project/hospitality.jpg"
     },
     {
-      "name": "Maintenance Services",
+      "name": "IVF & Fertility",
       "coverImg": "/images/project/maintenance.jpg"
     }
   ],
-  
   "RecordData": [
     {
-      "digit": "25,000+",
-      "desc": "Workforce Recruited",
+      "digit": "15K+",
+      "desc": "Patient Support Cases",
       "imgSrc": "/images/records/cart.svg"
     },
     {
-      "digit": "45+ Years",
-      "desc": "Industry Experience",
+      "digit": "50+",
+      "desc": "Specialty Pathways Coordinated",
       "imgSrc": "/images/records/star.svg"
     },
     {
-      "digit": "6+ Countries",
-      "desc": "Middle East Presence",
+      "digit": "10+",
+      "desc": "International Destinations Assisted",
       "imgSrc": "/images/records/user.svg"
     },
     {
-      "digit": "100+ Clients",
-      "desc": "Trusted Partnerships",
+      "digit": "100%",
+      "desc": "Patient-Focused Coordination",
       "imgSrc": "/images/records/cart.svg"
     }
   ],
-  
   "ReviewData": [
     {
       "imgSrc": "/images/review/daniel.webp",
-      "name": "Daniel Reid",
-      "rating": 4.2,
-      "desc": "Pixelize nailed our website redesign. Clean layout, fast loading, and mobile-friendly. Highly recommended!"
+      "name": "Amina H.",
+      "rating": 4.8,
+      "desc": "Hana made the treatment process easy and stress-free. Their coordination and updates were clear from day one."
     },
     {
       "imgSrc": "/images/review/sophia.webp",
-      "name": "Sophia Turner",
-      "rating": 4.5,
-      "desc": "The UI/UX improvements boosted our user engagement and conversions. Truly a professional team!"
+      "name": "Hassan R.",
+      "rating": 4.7,
+      "desc": "From reports to appointments, the team handled each step professionally and with genuine care."
     },
     {
       "imgSrc": "/images/review/marcus.webp",
-      "name": "Marcus Lee",
-      "rating": 4.8,
-      "desc": "They understood our brand vision perfectly and delivered a logo that stands out in our industry."
+      "name": "Fatima T.",
+      "rating": 4.9,
+      "desc": "We felt supported throughout the journey, including travel, accommodation, and treatment coordination."
     }
   ],
   "SpecializeData": [
     {
       "imgSrc": "/images/specialization/webdesign.svg",
-      "title": "Verified Workforce",
-      "desc": "Proper screening and selection of skilled and reliable candidates."
+      "title": "Trusted Network",
+      "desc": "We coordinate patients with reputable healthcare providers and specialists in India."
     },
     {
       "imgSrc": "/images/specialization/logodesign.svg",
-      "title": "Fast Deployment",
-      "desc": "Efficient processes ensuring timely manpower delivery."
+      "title": "Case Coordination",
+      "desc": "From reports to treatment planning, we support every step of the patient journey."
     },
     {
       "imgSrc": "/images/specialization/mobileapp.svg",
-      "title": "Global Reach",
-      "desc": "Serving leading companies across multiple Middle East countries."
+      "title": "Transparent Planning",
+      "desc": "Patients receive clear treatment options, estimated costs, and practical guidance."
     },
     {
       "imgSrc": "/images/specialization/contentwrite.svg",
-      "title": "Wide Industry Coverage",
-      "desc": "Providing workforce across construction, oil & gas, healthcare and more."
+      "title": "Travel & Visa Support",
+      "desc": "We help simplify medical-visa documentation, travel coordination, and arrival support."
     },
     {
       "imgSrc": "/images/specialization/seooptimize.svg",
-      "title": "Trusted by Clients",
-      "desc": "Building long-term relationships with reputed organizations."
+      "title": "Accommodation Assistance",
+      "desc": "Hospital, stay, and local transportation support are arranged for a smoother experience."
     },
     {
       "imgSrc": "/images/specialization/digitalmarketing.svg",
-      "title": "45+ Years Experience",
-      "desc": "Established in 1976 with decades of expertise in manpower recruitment."
+      "title": "Dedicated Support",
+      "desc": "A clear coordination point helps patients and attendants feel informed and supported."
     }
   ],
   "WhoWeAreData": [
     {
       "imgSrc": "/images/specialization/webdesign.svg",
-      "title": "Expert Leadership",
-      "desc": "Led by industry veterans with 45+ years of combined experience."
+      "title": "Patient First",
+      "desc": "We focus on making healthcare access in India easier, clearer, and more reassuring."
     },
     {
       "imgSrc": "/images/specialization/logodesign.svg",
-      "title": "Commitment to Excellence",
-      "desc": "We prioritize quality and professionalism in every recruitment solution."
+      "title": "Healthcare Coordination",
+      "desc": "Our services connect patients with the right doctors, hospitals, and treatment pathways."
     },
     {
       "imgSrc": "/images/specialization/mobileapp.svg",
-      "title": "Global Network",
-      "desc": "Connected with top talents and organizations across the Middle East."
+      "title": "International Care",
+      "desc": "We support patients traveling from abroad with practical and logistical assistance."
     },
     {
       "imgSrc": "/images/specialization/contentwrite.svg",
-      "title": "Customer-Centric Approach",
-      "desc": "Your success is our success - we provide tailored solutions for every client."
+      "title": "Reliable Process",
+      "desc": "Every step is designed to reduce confusion and keep families informed throughout treatment."
     },
     {
       "imgSrc": "/images/specialization/seooptimize.svg",
-      "title": "Innovative Solutions",
-      "desc": "Leveraging technology and expertise to streamline recruitment processes."
+      "title": "Partnership Driven",
+      "desc": "We work with hospitals, specialists, agencies, and healthcare partners across borders."
     },
     {
       "imgSrc": "/images/specialization/digitalmarketing.svg",
-      "title": "Trusted Partner",
-      "desc": "Building long-term relationships based on reliability and integrity."
+      "title": "Trusted Guidance",
+      "desc": "We build confidence through dependable coordination and compassionate support."
     }
   ],
   "PlanData": [
     {
-      "type": "Basic",
+      "type": "Consultation",
       "price": {
-        "monthly": 9,
-        "yearly": 95
+        "monthly": 0,
+        "yearly": 0
       },
-      "desc": "Ideal for freelancers and startups.",
+      "desc": "Initial case review and treatment guidance.",
       "option": [
-        "Consultation with strategy session",
-        "Basic design and development",
-        "One revision per project",
-        "Responsive on all devices",
-        "Email support included only"
+        "Medical report review",
+        "Treatment pathway guidance",
+        "Provider coordination",
+        "Cost estimate support",
+        "Patient journey planning"
       ]
     },
     {
-      "type": "Pro",
+      "type": "Full Support",
       "price": {
-        "monthly": 19,
-        "yearly": 185
+        "monthly": 0,
+        "yearly": 0
       },
-      "desc": "Perfect for small growing teams.",
+      "desc": "Complete coordination for travel and treatment in India.",
       "option": [
-        "Advanced project planning support",
-        "Premium design and development",
-        "Three revisions per project",
-        "Fully responsive and optimized",
-        "Priority email and chat support"
+        "Visa and travel assistance",
+        "Hospital and doctor coordination",
+        "Accommodation support",
+        "Airport transfer help",
+        "Follow-up coordination"
       ]
     }
   ],
   "CategoryData": [
     {
       "imgSrc": "/images/category/webdev.webp",
-      "title": "Requirement Analysis"
+      "title": "Share Medical Reports"
     },
     {
       "imgSrc": "/images/category/logods.webp",
-      "title": "Candidate Sourcing"
+      "title": "Case Assessment"
     },
     {
       "imgSrc": "/images/category/mobileapp.webp",
-      "title": "Screening & Shortlisting"
+      "title": "Hospital Matching"
     },
     {
       "imgSrc": "/images/category/contentwrite.webp",
-      "title": "Interview & Selection"
+      "title": "Treatment Planning"
     },
     {
       "imgSrc": "/images/category/digitalmarket.webp",
-      "title": "Documentation"
+      "title": "Travel Coordination"
     },
     {
       "imgSrc": "/images/category/digitalmarket.webp",
-      "title": "Deployment"
+      "title": "Post-Treatment Care"
     }
   ],
   "FooterLinkData": [
@@ -228,16 +238,16 @@
       "section": "More",
       "links": [
         {
-          "label": "About",
+          "label": "About Hana",
           "href": "/about"
+        },
+        {
+          "label": "Patient Journey",
+          "href": "/mission"
         },
         {
           "label": "Contact",
           "href": "/contact"
-        },
-        {
-          "label": "Mission",
-          "href": "/mission"
         }
       ]
     }

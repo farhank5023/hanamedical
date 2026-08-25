@@ -49,29 +49,28 @@ const Hero = () => {
             <div className='lg:col-span-7 col-span-1'>
               <div className='flex flex-col lg:items-start items-center gap-12'>
                <div className='text-center lg:text-start max-w-xl'>
-  <h1 className='text-4xl md:text-5xl font-bold text-blue-900 mb-4'>
-    Arzu International Manpower Consultants
+  <h1 className='text-4xl md:text-5xl font-bold text-primary mb-4'>
+    Your Trusted Healthcare Partner in India
   </h1>
 
   <p className='text-lg text-gray-600 mb-4'>
-    Trusted manpower solutions since 1976
+    Quality Medical Care. Personalized Support. Complete Coordination.
   </p>
 
   <p className='text-gray-500'>
-    Providing skilled workforce from India and Nepal to leading companies 
-    across the Middle East with over 25,000 successful placements.
+    Hana Medical Services helps international patients access trusted hospitals, specialists, and treatment pathways in India with a smooth, end-to-end care journey.
   </p>
 </div>
                 <div className='flex items-center gap-5 mt-4'>
   <Link href='/contact'>
     <button className='px-6 py-3 font-medium text-white border rounded-lg border-primary bg-primary hover:bg-transparent hover:text-primary duration-300'>
-      Contact Us
+      Send Your Medical Reports
     </button>
   </Link>
 
   <Link href='/about'>
     <button className='px-6 py-3 font-medium text-primary border rounded-lg border-primary bg-transparent hover:bg-primary hover:text-white duration-300'>
-      About
+      Talk To A Patient Coordinator
     </button>
   </Link>
 </div>

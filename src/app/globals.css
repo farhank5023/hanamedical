@@ -3,13 +3,13 @@
 @custom-variant dark (&:is(.dark *));
 
 @theme {
-  --color-primary: #2f73f2;
-  --color-secondary: #f5f9ff;
-  --color-lightgrey: #547593;
-  --color-darkmode: #081738;
-  --color-darklight: #000f30;
-  --color-darkblue: #102d47;
-  --color-lightdarkblue: #112145;
+  --color-primary: #0f766e;
+  --color-secondary: #eefcf9;
+  --color-lightgrey: #566d70;
+  --color-darkmode: #062d2d;
+  --color-darklight: #0b3b3d;
+  --color-darkblue: #153d3f;
+  --color-lightdarkblue: #1b4b4f;
 
   /* spacing */
   --spacing-45: 45%;
