@@ -28,7 +28,7 @@ export const metadata: Metadata = {
     type: 'website',
     images: [
       {
-        url: '/images/logo/hana_logo.png',
+        url: 'https://hanamedicalservice.com/images/logo/hana_logo.png',
         width: 1200,
         height: 630,
         alt: 'Hana Medical Services logo',
@@ -39,7 +39,7 @@ export const metadata: Metadata = {
     card: 'summary_large_image',
     title: 'Hana Medical Services',
     description: 'Medical coordination and support for patients seeking trusted care in India.',
-    images: ['/images/logo/hana_logo.png'],
+    images: ['https://hanamedicalservice.com/images/logo/hana_logo.png'],
   },
 }
 
