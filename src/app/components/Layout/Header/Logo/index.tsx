@@ -10,7 +10,7 @@ const Logo = () => {
         alt='Hana Medical Services logo'
         width={900}
         height={300}
-        className='h-20 w-auto object-contain block dark:hidden sm:h-24 md:h-28 lg:h-32'
+        className='h-14 w-auto object-contain block dark:hidden sm:h-16 md:h-20 lg:h-22'
       />
 
       <Image
@@ -18,7 +18,7 @@ const Logo = () => {
         alt='Hana Medical Services logo'
         width={900}
         height={300}
-        className='hidden h-20 w-auto object-contain dark:block sm:h-24 md:h-28 lg:h-32'
+        className='hidden h-14 w-auto object-contain dark:block sm:h-16 md:h-20 lg:h-22'
       />
     </Link>
   )

@@ -99,22 +99,7 @@ const Footer = () => {
                 </p>
               </Link>
             </div>
-            <div className="flex gap-2 items-center justify-center sm:justify-start">
-              <Icon
-                icon={"tabler:mail"}
-                width={16}
-                height={16}
-                className="text-lightgrey flex-shrink-0"
-              />
-              <Link
-                href="mailto:info@gmail.com"
-                onClick={(e) => e.preventDefault()}
-              >
-                <p className="text-xs font-normal text-offwhite hover:text-primary dark:hover:text-primary text-center sm:text-left">
-                  info@arzu.com
-                </p>
-              </Link>
-            </div>
+
           </div>
         </div>
       </div>
