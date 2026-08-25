@@ -47,7 +47,7 @@ export default function Home() {
 
       <section id="faq" className="mx-auto max-w-6xl px-6 py-20 lg:px-10">
         <div className="mb-10 text-center">
-          <p className="mb-3 text-sm font-semibold uppercase tracking-[0.2em] text-primary">
+          <p className="mb-3 text-sm font-semibold text-primary">
             FAQ
           </p>
           <h2 className="text-4xl font-bold text-darkblue dark:text-white">

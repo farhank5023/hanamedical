@@ -14,8 +14,8 @@ export default function InternationalPatientsPage() {
   return (
     <div className="pt-32 px-6 lg:px-10 max-w-6xl mx-auto space-y-12 pb-20">
       <div className="text-center">
-        <p className="text-sm font-semibold uppercase tracking-[0.2em] text-primary mb-3">
-          International Care
+        <p className="text-sm font-semibold text-primary mb-3">
+          International care
         </p>
         <h1 className="text-4xl font-bold text-primary mb-4">
           Complete Support for International Patients

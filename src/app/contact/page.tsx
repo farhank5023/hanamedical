@@ -5,7 +5,7 @@ export default function ContactPage() {
     <div className="pt-24 pb-16 px-6 max-w-6xl mx-auto">
       <div className="text-center mb-10">
         <h1 className="text-4xl font-bold text-primary mb-2">
-          Let&apos;s Start Your Healthcare Journey
+          Let&apos;s start your healthcare journey
         </h1>
         <p className="text-gray-600">
           Whether you are a patient seeking treatment in India or an organization looking to partner with Hana, our team is ready to assist.
@@ -46,17 +46,8 @@ export default function ContactPage() {
               <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" viewBox="0 0 16 16" className="text-primary">
                 <path d="M12 0H4a2 2 0 0 0-2 2v12a2 2 0 0 0 2 2h8a2 2 0 0 0 2-2V2a2 2 0 0 0-2-2Zm-1 2v.5a.5.5 0 0 1-.5.5h-5A.5.5 0 0 1 5 2.5V2h6Zm3 12V4H2v10a1 1 0 0 0 1 1h10a1 1 0 0 0 1-1Z"/>
               </svg>
-              <span>India</span>
+              <span>Okhla, New Delhi, India</span>
             </div>
-          </div>
-
-          <div className="h-[415px] border rounded-lg overflow-hidden">
-            <iframe
-              src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3559.722499559411!2d80.9289914!3d26.848777199999997!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x399bfd7963565b4b%3A0x5d0e4c7b3eee272!2sARZU%20INTERNATIONAL%20SHOP%20NO%2008%20SECOND%20FLOOR%20LUCKNOW%20PLAZA%20BUILDING!5e0!3m2!1sen!2sin!4v1774975856069!5m2!1sen!2sin"
-              width="100%"
-              height="100%"
-              style={{ border: 0 }}
-            ></iframe>
           </div>
         </div>
       </div>

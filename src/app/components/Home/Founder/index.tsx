@@ -28,8 +28,8 @@ const Founder = () => {
     <section className="py-20 bg-gradient-to-br from-white via-secondary to-teal-50 dark:from-darkmode dark:via-darklight dark:to-darkmode">
       <div className="container">
         <div className="text-center mb-14">
-          <p className="text-primary font-semibold uppercase tracking-[0.2em] text-sm mb-3">
-            Patient Journey
+          <p className="text-primary font-semibold text-sm mb-3">
+            Patient journey
           </p>
           <h2 className="text-5xl lg:text-6xl font-bold text-darkblue dark:text-white">
             How It Works

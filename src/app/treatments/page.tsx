@@ -2,8 +2,8 @@ export default function TreatmentsPage() {
   return (
     <div className="pt-32 px-6 lg:px-10 max-w-6xl mx-auto space-y-12 pb-20">
       <div className="text-center">
-        <p className="text-sm font-semibold uppercase tracking-[0.2em] text-primary mb-3">
-          Medical Services
+        <p className="text-sm font-semibold text-primary mb-3">
+          Medical services
         </p>
         <h1 className="text-4xl font-bold text-primary mb-4">
           Our Medical Specialties
