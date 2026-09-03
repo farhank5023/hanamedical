@@ -57,7 +57,7 @@ const Category = () => {
                         alt={item.title}
                         width={570}
                         height={394}
-                        className='w-full rounded-lg'
+                        className='aspect-[4/3] w-full rounded-lg object-cover'
                       />
                       <Link href='/' target='_blank'>
                         <div className='absolute inset-0 bg-gradient-to-b from-darklight/0 from-60% to-darklight/80 lg:translate-y-full group-hover:translate-y-0 transition-transform duration-500 ease-in-out rounded-lg flex items-end'>

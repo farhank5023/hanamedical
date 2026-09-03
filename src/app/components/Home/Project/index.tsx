@@ -92,7 +92,7 @@ const Project = () => {
   <div className="h-full flex flex-col justify-between p-4 bg-white dark:bg-lightdarkblue rounded-lg">
 
     {/* IMAGE */}
-    <div className="w-full h-[180px] mb-4 overflow-hidden rounded-lg">
+    <div className="w-full aspect-[3/2] mb-4 overflow-hidden rounded-lg">
       <Image
         src={getImgPath(item.coverImg)}
         alt={item.name}

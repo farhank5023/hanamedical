@@ -46,27 +46,27 @@
   "ProjectData": [
     {
       "name": "Oncology & Cancer Care",
-      "coverImg": "/images/project/cons.jpg"
+      "coverImg": "/images/about/Industries/Cancer.jpg"
     },
     {
       "name": "Cardiology & Cardiac Care",
-      "coverImg": "/images/project/oil.jpg"
+      "coverImg": "/images/about/Industries/Cardiology.jpg"
     },
     {
       "name": "Neurosurgery & Neurology",
-      "coverImg": "/images/project/health.jpg"
+      "coverImg": "/images/about/Industries/Neurosurgery.jpg"
     },
     {
       "name": "Spine & Orthopaedics",
-      "coverImg": "/images/project/engine.jpg"
+      "coverImg": "/images/about/Industries/Spine.jpg"
     },
     {
       "name": "Kidney & Renal Care",
-      "coverImg": "/images/project/hospitality.jpg"
+      "coverImg": "/images/about/Industries/Kidney.jpg"
     },
     {
       "name": "IVF & Fertility",
-      "coverImg": "/images/project/maintenance.jpg"
+      "coverImg": "/images/about/Industries/IVF.jpg"
     }
   ],
   "RecordData": [
@@ -209,28 +209,28 @@
   ],
   "CategoryData": [
     {
-      "imgSrc": "/images/category/webdev.webp",
-      "title": "Share Medical Reports"
+      "title": "Share Medical Reports",
+      "imgSrc": "/images/about/Industries/Medical Reports.jpg"
     },
     {
-      "imgSrc": "/images/category/logods.webp",
-      "title": "Case Assessment"
+      "title": "Case Assessment",
+      "imgSrc": "/images/about/Industries/Case.jpg"
     },
     {
-      "imgSrc": "/images/category/mobileapp.webp",
-      "title": "Hospital Matching"
+      "title": "Hospital Matching",
+      "imgSrc": "/images/about/Industries/Matching.jpg"
     },
     {
-      "imgSrc": "/images/category/contentwrite.webp",
-      "title": "Treatment Planning"
+      "title": "Treatment Planning",
+      "imgSrc": "/images/about/Industries/Planning.jpg"
     },
     {
-      "imgSrc": "/images/category/digitalmarket.webp",
-      "title": "Travel Coordination"
+      "title": "Travel Coordination",
+      "imgSrc": "/images/about/Industries/Travel.jpg"
     },
     {
-      "imgSrc": "/images/category/digitalmarket.webp",
-      "title": "Post-Treatment Care"
+      "title": "Post-Treatment Care",
+      "imgSrc": "/images/about/Industries/Post-Treatment.jpg"
     }
   ],
   "FooterLinkData": [
